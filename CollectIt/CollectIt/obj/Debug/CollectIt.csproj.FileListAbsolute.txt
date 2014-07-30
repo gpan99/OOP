@@ -1,0 +1,12 @@
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\bin\Debug\CollectIt.exe.config
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\bin\Debug\CollectIt.exe
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\bin\Debug\CollectIt.pdb
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\obj\Debug\CollectIt.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\obj\Debug\CollectIt.exe
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\obj\Debug\CollectIt.pdb
+C:\Pluralsight\csharp-generics\4-csharp-generics-m4-methods-exercise-files\excercises\after\CollectIt\CollectIt\bin\Debug\CollectIt.exe.config
+C:\Pluralsight\csharp-generics\4-csharp-generics-m4-methods-exercise-files\excercises\after\CollectIt\CollectIt\obj\Debug\CollectIt.exe
+C:\Pluralsight\csharp-generics\4-csharp-generics-m4-methods-exercise-files\excercises\after\CollectIt\CollectIt\obj\Debug\CollectIt.pdb
+C:\Pluralsight\csharp-generics\4-csharp-generics-m4-methods-exercise-files\excercises\after\CollectIt\CollectIt\bin\Debug\CollectIt.exe
+C:\Pluralsight\csharp-generics\4-csharp-generics-m4-methods-exercise-files\excercises\after\CollectIt\CollectIt\bin\Debug\CollectIt.pdb
+C:\Pluralsight\csharp-generics\4-csharp-generics-m4-methods-exercise-files\excercises\after\CollectIt\CollectIt\obj\Debug\CollectIt.csprojResolveAssemblyReference.cache
